@@ -2,14 +2,14 @@
   "version" : 2,
   "creatorIdentifier" : "net.ia.presenter",
   "transient" : false,
-  "type" : "net.daringfireball.markdown",
   "net.ia.presenter" : {
-    "preset" : "Default",
-    "headerleading" : "slideNumber",
     "titlefont" : "Victor Mono",
-    "appearance" : "light",
+    "template" : "new york",
+    "preset" : "Default",
     "headertrailing" : "@_vojto",
+    "headerleading" : "slideNumber",
     "bodyfont" : "Victor Mono",
-    "template" : "new york"
-  }
+    "appearance" : "light"
+  },
+  "type" : "net.daringfireball.markdown"
 }

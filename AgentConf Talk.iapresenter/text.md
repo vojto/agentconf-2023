@@ -773,15 +773,24 @@ size: contain
 
 ---
 
-### cr-sql
-/assets/Clipboard_49.png
+#### VLCN (vlcn.io)
+/assets/Clipboard.png
 size: contain
+
 
 ---
 
-### Evolu
+#### Evolu (evolu.dev)
 /assets/Clipboard_50.png
 size: contain
+
+
+
+---
+
+### Thank you
+	- vojto@rinik.net
+	- @_vojto
 
 ---
 
@@ -793,11 +802,3 @@ size: contain
 
 /assets/Clipboard_53.png
 size: contain
-
-
----
-
-### Thank you
-	- vojto@rinik.net
-	- @_vojto
-

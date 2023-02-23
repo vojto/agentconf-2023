@@ -1,0 +1,15 @@
+{
+  "version" : 2,
+  "creatorIdentifier" : "net.ia.presenter",
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "net.ia.presenter" : {
+    "preset" : "Default",
+    "headerleading" : "slideNumber",
+    "titlefont" : "Victor Mono",
+    "appearance" : "light",
+    "headertrailing" : "@_vojto",
+    "bodyfont" : "Victor Mono",
+    "template" : "new york"
+  }
+}
